@@ -1,0 +1,15 @@
+/home/riad/web-app-project/src/main/java/com/webapp/dao/UserDAO.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/LoginServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/UserListServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/dao/BookDAO.java
+/home/riad/web-app-project/src/main/java/com/webapp/model/User.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/BookServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/LogoutServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/DashboardServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/dao/ArticleDAO.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/SignupServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/ArticleServlet.java
+/home/riad/web-app-project/src/main/java/com/webapp/model/Article.java
+/home/riad/web-app-project/src/main/java/com/webapp/model/Book.java
+/home/riad/web-app-project/src/main/java/com/webapp/util/DatabaseUtil.java
+/home/riad/web-app-project/src/main/java/com/webapp/servlet/SupportServlet.java
